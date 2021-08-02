@@ -1,0 +1,2 @@
+E:\Mackenzie\Japones\projects\double_linked_list\Debug\double_linked_list.exe
+E:\Mackenzie\Japones\projects\double_linked_list\Debug\double_linked_list.pdb
